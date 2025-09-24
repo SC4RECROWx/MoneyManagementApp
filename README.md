@@ -65,5 +65,3 @@ Berikut adalah cara untuk menjalankan proyek ini di komputermu:
 -   **GitHub:** [SC4RECROWx](https://github.com/SC4RECROWx)
 
 ---
-
-Selamat mengerjakan skripsinya!
