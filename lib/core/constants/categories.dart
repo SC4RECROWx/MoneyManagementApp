@@ -1,0 +1,1 @@
+const List<String> categories = ['Food', 'Transport', 'Bills', 'Entertainment'];
