@@ -8,11 +8,11 @@ Aplikasi ini dirancang untuk mempermudah pencatatan pemasukan dan pengeluaran ha
 
 ## 📸 Tampilan Aplikasi (Screenshots)
 
-<p align="center">
-  <img src="[LINK_SCREENSHOT_LOGIN.png]" alt="Halaman Login" width="200"/>
-  <img src="[LINK_SCREENSHOT_DASHBOARD.png]" alt="Halaman Dashboard" width="200"/>
-  <img src="[LINK_SCREENSHOT_TRANSAKSI.png]" alt="Halaman Transaksi" width="200"/>
-</p>
+##<p align="center">
+##  <img src="[LINK_SCREENSHOT_LOGIN.png]" alt="Halaman Login" width="200"/>
+##  <img src="[LINK_SCREENSHOT_DASHBOARD.png]" alt="Halaman Dashboard" width="200"/>
+##  <img src="[LINK_SCREENSHOT_TRANSAKSI.png]" alt="Halaman Transaksi" width="200"/>
+##</p>
 
 ---
 
@@ -32,7 +32,7 @@ Aplikasi ini dirancang untuk mempermudah pencatatan pemasukan dan pengeluaran ha
 
 -   **Framework:** [Flutter](https://flutter.dev/)
 -   **Bahasa Pemrograman:** [Dart](https://dart.dev/)
--   **Manajemen State:** `[Contoh: Provider, Bloc, GetX, Riverpod]` -   **Database:** `[Contoh: Firebase Firestore, SQLite, Hive]` -   **Lainnya:** `[Sebutkan library penting lainnya jika ada]`
+-   **Manajemen State:** `[Provider, Bloc, GetX, Riverpod]` -   **Database:** `[Firebase Firestore]`
 
 ---
 
@@ -71,7 +71,7 @@ Berikut adalah cara untuk menjalankan proyek ini di komputermu:
 
 **SC4RECR0W**
 
--   **Email:** `[email.anda@gmail.com]`
+-   **Email:** `[jieakbar903@gmail.com]`
 -   **GitHub:** [SC4RECROWx](https://github.com/SC4RECROWx)
 
 ---
