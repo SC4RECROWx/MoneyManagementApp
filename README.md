@@ -8,11 +8,11 @@ Aplikasi ini dirancang untuk mempermudah pencatatan pemasukan dan pengeluaran ha
 
 ## 📸 Tampilan Aplikasi (Screenshots)
 
-<-- <p align="center">
+'<p align="center">
   <img src="[LINK_SCREENSHOT_LOGIN.png]" alt="Halaman Login" width="200"/>
   <img src="[LINK_SCREENSHOT_DASHBOARD.png]" alt="Halaman Dashboard" width="200"/>
   <img src="[LINK_SCREENSHOT_TRANSAKSI.png]" alt="Halaman Transaksi" width="200"/>
-</p> --!>
+</p>'
 
 ---
 
